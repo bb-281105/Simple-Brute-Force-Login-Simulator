@@ -1,0 +1,17 @@
+=== Brute Force Attack Logs ===
+Started: 2026-02-10 22:52:54
+
+[2026-02-10 22:52:54] [INFO] Loaded 4 users from database
+[2026-02-10 22:52:54] [INFO] Loaded 23 passwords from dictionary
+[2026-02-10 22:53:05] [INFO] Starting attack on 4 users
+[2026-02-10 22:53:05] [INFO] 
+==================================================
+[2026-02-10 22:53:05] [INFO] Starting brute force attack on user: admin
+[2026-02-10 22:53:05] [INFO] Testing 23 passwords...
+[2026-02-10 22:53:06] [SUCCESS] Successful login for user 'admin'
+[2026-02-10 22:53:06] [CRACKED] Password found for 'admin': admin123
+[2026-02-10 22:53:06] [CRACKED] Time taken: 1.01s, Attempts: 1
+[2026-02-10 22:53:06] [INFO] 
+==================================================
+[2026-02-10 22:53:06] [INFO] Starting brute force attack on user: john_doe
+[2026-02-10 22:53:06] [INFO] Testing 23 passwords...

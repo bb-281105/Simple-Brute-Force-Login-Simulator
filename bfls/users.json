@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "email": "admin@example.com",
+      "role": "administrator",
+      "account_locked": false,
+      "failed_attempts": 0,
+      "lockout_until": null
+    },
+    {
+      "username": "john_doe",
+      "password": "password123",
+      "email": "john@example.com",
+      "role": "user",
+      "account_locked": false,
+      "failed_attempts": 0,
+      "lockout_until": null
+    },
+    {
+      "username": "jane_smith",
+      "password": "securePass!2024",
+      "email": "jane@example.com",
+      "role": "user",
+      "account_locked": false,
+      "failed_attempts": 0,
+      "lockout_until": null
+    },
+    {
+      "username": "test_user",
+      "password": "test",
+      "email": "test@example.com",
+      "role": "user",
+      "account_locked": false,
+      "failed_attempts": 0,
+      "lockout_until": null
+    }
+  ]
+}
